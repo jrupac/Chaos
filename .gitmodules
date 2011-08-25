@@ -1,0 +1,21 @@
+[submodule "Cantor Dust"]
+	path = Cantor Dust
+	url = git://github.com/jrupac/Cantor-Dust.git
+[submodule "Carpet"]
+	path = Carpet
+	url = git://github.com/jrupac/Sierpinski-Carpet.git
+[submodule "Elastic"]
+	path = Elastic
+	url = git://github.com/jrupac/N-Body-Simulation.git
+[submodule "Chaos Game"]
+	path = Chaos Game
+	url = git://github.com/jrupac/Chaos-Game.git
+[submodule "Fern"]
+	path = Fern
+	url = git://github.com/jrupac/Barnsley-Fern.git
+[submodule "Julia"]
+	path = Julia
+	url = git://github.com/jrupac/Julia.git
+[submodule "Mandelbrot"]
+	path = Mandelbrot
+	url = git://github.com/jrupac/Mandelbrot.git
